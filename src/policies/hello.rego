@@ -2,9 +2,9 @@ package policies.hello
 
 # default to a "closed" system, 
 # only grant access when explicitly granted
-# 0.0.1
+# 0.0.2
 
-default allowed = false
+default allowed = true
 default visible = false
 default enabled = false
 
